@@ -18,6 +18,37 @@ Dependecies :
 - Electron
 - Npm
 - Nvm CLI
+- PHP 8.4.3 (cli) (built: Jan 15 2025 01:03:17) (NTS)
+
+Servers :
+```
+Electron :
+> Embeded Chromium Server
+PHP :
+> php WebServer
+```
+
+# Run
+
+Electron version :
+```
+cd Portfolio-Electron
+npm i
+npm run start
+```
+PHP Local version :
+```
+cd dwwm-portfolio-template
+php -S 127.0.0.1:8080
+```
+PHP version :
+```
+cd dwwm-portfolio-template
+php -S 0.0.0.0:80
+```
+
+
+
 
 # UML
 ![Untitled Diagram drawio](https://github.com/user-attachments/assets/ce599c72-a637-4de7-9175-d08fca12f955)

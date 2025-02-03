@@ -14,11 +14,13 @@ Languages :
 - JS
 
 Dependecies :
-- NodeJS
-- Electron
-- Npm
-- Nvm CLI
-- PHP 8.4.3 (cli) (built: Jan 15 2025 01:03:17) (NTS)
+```
+>NodeJS
+>Electron
+>Npm
+>Nvm CLI
+>PHP 8.4.3 (cli) (built: Jan 15 2025 01:03:17) (NTS)
+```
 
 Servers :
 ```

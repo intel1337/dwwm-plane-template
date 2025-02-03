@@ -2,11 +2,12 @@
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/a59526f9-276d-488f-b339-0a47f87e2e26" />
 
 # Stack
+```
 Kernel : XNU
 OS : MacOS 15.2 Beta (24C5089c)
 Browser : Safari Version 18.2 (20620.1.16.11.6)
 Processor Architecture : aarch64 || arm64 / ArmV8
-
+```
 Languages : 
 - Html
 - CSS
